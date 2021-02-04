@@ -14,6 +14,6 @@
 	  "request": "*",
 	  "fs": "*",
 	  "https": "*",
-	  express: "*"
+	  "express": "*"
   }
 }
